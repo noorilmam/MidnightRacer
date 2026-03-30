@@ -76,6 +76,23 @@ Players compete in underground street races across **4 progressively challenging
 
 ---
 
+## How to Run the Program
+
+### Requirements:
+- .NET 8 SDK or later  
+- Windows / macOS / Linux terminal  
+
+### Steps:
+1. Open a terminal / command prompt  
+
+2. Navigate to the MidnightCircuit folder:
+
+3. Build the project: dotnet build
+
+4. Run the project: dotnet run
+
+OR open `MidnightCircuit.csproj` in Visual Studio and press **F5**.
+
 ## 📂 Project File Structure
 ```text
 MidnightCircuit/
