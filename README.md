@@ -6,11 +6,11 @@
 ---
 
 ## 👥 Group Members
-- Muhammad Aiman (24005672) – Core Classes, Game Logic, UML & Design
-- Luth Adam (25014453) – Exception Handling, Testing, UML & Design
-- Ikhwan Haziq (25014483) – Interfaces, Item System, Documentation & Report
-- Danish Aiman (24005389) – Exception Handling & Testing
-- Muhammad Aisar (25014021) – Exception Handling & Testing
+- Muhammad Aiman (24005672) & Luth Adam (25014453) – UML and Design
+- Muhammad Aiman (24005672) – Core classes (Racer, Player, Rival)
+- Ikhwan Haziq (25014483) – Interfaces , Item System , Doucumentation & Report
+- Muhammad Aiman (24005672) – Game Logic (Race, LevelBuilder)
+- Luth Adam (25014453) & Danish Aiman (24005389) & Muhammad Aisar (25014021) – Exception Handling & Testing
 - Fawwaz (24009550) – Shop, UI, Game Controller
 - Noor Ilmam (25014255) – GitHub Integration & README
 
